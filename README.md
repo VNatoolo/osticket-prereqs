@@ -30,27 +30,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a Database for osTicket
   
 <h2>Installation Steps</h2>
+
+
 <img width="1440" alt="Screen Shot 2025-02-26 at 12 17 22 PM" src="https://github.com/user-attachments/assets/7c8f4aac-0b5d-43fb-b9a1-285f547efa8c" />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+Microsoft Azure portal displays a virtual machine (VM) named "labuser1" that is currently running on Windows 10 Pro. It is part of the VMTEST-LAB resource group, located in West US 3 (Zone 1) under Azure subscription 1. The VM is configured with a Standard D2s v3 instance (2 vCPUs, 8 GiB memory) and has a public IP address of 20.168.1.46 and a private IP address of 10.0.0.4, connected to the labuser1-vnet/default virtual network. The agent status is ready, running version 2.7.14191.1139, and hibernation is disabled. The interface provides various management options, including Start, Restart, Stop, Hibernate, Capture, Delete, and Refresh, along with monitoring and networking settings.
+
+
+
+
+
+<img width="861" alt="Screen Shot 2025-02-26 at 5 03 51 PM" src="https://github.com/user-attachments/assets/3321fa2a-7f6e-4d2f-b4a9-bc3f896d4048" />
+
+
+
+Windows PowerShell session running with administrator privileges, where a ping command is executed to test connectivity to the private IP address 10.0.0.4. The output confirms successful communication with the target, as all four packets were sent and received without any loss (0%), and the response time was minimal (0ms). This demonstrates a properly functioning network connection, likely within a local or virtualized environment.
+
