@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a Database for osTicket
   
 <h2>Installation Steps</h2>
-
+<img width="1440" alt="Screen Shot 2025-02-26 at 12 17 22 PM" src="https://github.com/user-attachments/assets/7c8f4aac-0b5d-43fb-b9a1-285f547efa8c" />
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
